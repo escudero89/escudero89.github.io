@@ -1,0 +1,16 @@
+{
+  "name": "starter-node-angular",
+  "main": "server.js",
+  "author": "escudero89 <escudero89@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escudero89/escudero89.github.io"
+  },
+  "dependencies": {
+    "express" : "~4.5.1",
+    "mongoose" : "~3.8.0",
+    "body-parser" : "~1.4.2",
+    "method-override" : "~2.0.2"
+  },
+  "license": "MIT"
+}
